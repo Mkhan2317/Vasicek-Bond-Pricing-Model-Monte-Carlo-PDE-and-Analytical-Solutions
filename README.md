@@ -58,7 +58,7 @@ $P(t,T) = A(t,T) \cdot e^{-B(t,T) \cdot r_t}$
 Where:
 
 * $B(t,T) = \frac{1 - e^{-\kappa (T - t)}}{\kappa}$
-* ( A(t,T) = \exp \left\[ \left( \theta - \frac{\sigma^2}{2\kappa^2} \right)(B(t,T) - (T - t)) - \frac{\sigma^2}{4\kappa} B(t,T)^2 \right] ]
+* $( A(t,T) = \exp \left\[ \left( \theta - \frac{\sigma^2}{2\kappa^2} \right)(B(t,T) - (T - t)) - \frac{\sigma^2}{4\kappa} B(t,T)^2 \right] ]$
 
 ---
 
