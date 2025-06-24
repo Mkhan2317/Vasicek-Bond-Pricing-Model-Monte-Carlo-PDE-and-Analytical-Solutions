@@ -122,9 +122,9 @@ python vasicek_bond_pricing.py
 
 | Method           | Estimated Bond Price | Notes                         |
 | ---------------- | -------------------- | ----------------------------- |
-| Analytical       | 0.883xx              | Closed-form, baseline result  |
-| Monte Carlo (MC) | 0.882xx ± 0.001xx    | Mean with standard error      |
-| PDE Finite Diff  | 0.883xx              | High accuracy, grid converged |
+| Analytical       | 0.052998             | Closed-form, baseline result  |
+| Monte Carlo (MC) | 0.053465 ± 0.000643  | Mean with standard error      |
+| PDE Finite Diff  | 0.053191             | High accuracy, grid converged |
 
 ---
 
